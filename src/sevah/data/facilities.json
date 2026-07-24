@@ -1,0 +1,98 @@
+[
+  {
+    "facility_id": "sample-lakeside-community-center",
+    "name": "Lakeside Community Center",
+    "address": "100 Harbor Way, Chicago, IL 60601",
+    "coordinates": {
+      "latitude": 41.8864,
+      "longitude": -87.6231
+    },
+    "website": null,
+    "rating": null,
+    "place_id": null
+  },
+  {
+    "facility_id": "sample-west-loop-wellness",
+    "name": "West Loop Wellness Facility",
+    "address": "225 Market Street, Chicago, IL 60607",
+    "coordinates": {
+      "latitude": 41.8787,
+      "longitude": -87.6572
+    },
+    "website": null,
+    "rating": null,
+    "place_id": null
+  },
+  {
+    "facility_id": "sample-lincoln-park-care",
+    "name": "Lincoln Park Care Center",
+    "address": "410 Garden Avenue, Chicago, IL 60614",
+    "coordinates": {
+      "latitude": 41.9227,
+      "longitude": -87.6533
+    },
+    "website": null,
+    "rating": null,
+    "place_id": null
+  },
+  {
+    "facility_id": "sample-hyde-park-health",
+    "name": "Hyde Park Health Center",
+    "address": "560 University Drive, Chicago, IL 60615",
+    "coordinates": {
+      "latitude": 41.8015,
+      "longitude": -87.6013
+    },
+    "website": null,
+    "rating": null,
+    "place_id": null
+  },
+  {
+    "facility_id": "sample-oak-park-family-services",
+    "name": "Oak Park Family Services",
+    "address": "75 Forest Lane, Oak Park, IL 60301",
+    "coordinates": {
+      "latitude": 41.8887,
+      "longitude": -87.7982
+    },
+    "website": null,
+    "rating": null,
+    "place_id": null
+  },
+  {
+    "facility_id": "sample-evanston-lakeshore",
+    "name": "Evanston Lakeshore Facility",
+    "address": "830 Lakeview Road, Evanston, IL 60201",
+    "coordinates": {
+      "latitude": 42.0451,
+      "longitude": -87.6877
+    },
+    "website": null,
+    "rating": null,
+    "place_id": null
+  },
+  {
+    "facility_id": "sample-skokie-community-care",
+    "name": "Skokie Community Care",
+    "address": "1200 Village Circle, Skokie, IL 60077",
+    "coordinates": {
+      "latitude": 42.0324,
+      "longitude": -87.7416
+    },
+    "website": null,
+    "rating": null,
+    "place_id": null
+  },
+  {
+    "facility_id": "sample-cicero-neighborhood-center",
+    "name": "Cicero Neighborhood Center",
+    "address": "315 Central Boulevard, Cicero, IL 60804",
+    "coordinates": {
+      "latitude": 41.8456,
+      "longitude": -87.7539
+    },
+    "website": null,
+    "rating": null,
+    "place_id": null
+  }
+]

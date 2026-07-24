@@ -1,0 +1,5 @@
+streamlit>=1.54,<2.0
+pydantic>=2.12,<3.0
+langgraph>=1.2,<2.0
+python-dotenv>=1.2,<2.0
+zipcodes>=2.0,<3.0
